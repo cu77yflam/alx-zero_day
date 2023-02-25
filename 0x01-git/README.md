@@ -1,1 +1,1 @@
-First project about git in ALX SE Programme
+First project about git in ALX Software Engineering Programme!
